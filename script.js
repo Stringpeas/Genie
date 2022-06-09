@@ -5,6 +5,30 @@ let strings = [];
 
 strings.push(
 
+    "something about the moonlight<br>\
+    <br>\
+    how it shines on our skin and turns us blue<br>\
+    <br>\
+    our eyes meet yet I can't imagine your point of view<br>\
+    <br>\
+    <br>\
+    <br>\
+    i hope to one day<br>\
+    <br>\
+    look up at the stars<br>\
+    <br>\
+    and feel safe<br>\
+    <br>\
+    knowing you’re looking up at them<br>\
+    <br>\
+    thinking of me<br>\
+    <br>\
+    while i think of you"
+
+)
+
+strings.push(
+
     "From pebbles and sticks I began the<br>\
     creation of my city<br>\
     <br>\
@@ -53,7 +77,6 @@ strings.push(
     We're gonna be here till sundown,"
 
 )
-
 
 function next() {
 
