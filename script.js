@@ -136,26 +136,26 @@ strings.push(
 strings.push(
 
     "after a little deliberation I decide it’s probably best to get some sleep<br>\
-a choice I make that is unmotivated by drowsiness <br>\
-I crawl into bed and think<br>\
-<br>\
-a bed stained with every emotion I’ve ever felt<br>\
-thoughts of nothing but emotion I’ve never felt<br>\
-<br>\
-i’ve been here before,<br>\
-exchanging a cold handshake with a Crumpled Sheet,<br>\
-an empty hug with a Breathless Pillow<br>\
-<br>\
-realizing that no matter how many times i change these sheets,<br>\
-everything continues to feel unclean<br>\
-<br>\
-as my mind and body find today’s final consensus<br>\
-i lay there small and full of feeling <br>\
-and though it’s not much, it’s all i have<br>\
-<br>\
-i take a deep breath<br>\
-and try once more to accept solitude<br>\
-calmly"
+    a choice I make that is unmotivated by drowsiness <br>\
+    I crawl into bed and think<br>\
+    <br>\
+    a bed stained with every emotion I’ve ever felt<br>\
+    thoughts of nothing but emotion I’ve never felt<br>\
+    <br>\
+    i’ve been here before,<br>\
+    exchanging a cold handshake with a Crumpled Sheet,<br>\
+    an empty hug with a Breathless Pillow<br>\
+    <br>\
+    realizing that no matter how many times i change these sheets,<br>\
+    everything continues to feel unclean<br>\
+    <br>\
+    as my mind and body find today’s final consensus<br>\
+    i lay there small and full of feeling <br>\
+    and though it’s not much, it’s all i have<br>\
+    <br>\
+    i take a deep breath<br>\
+    and try once more to accept solitude<br>\
+    calmly"
     
 )
 
