@@ -111,31 +111,54 @@ strings.push(
 )
 
 
-strings.push{
+strings.push(
     "i saw a pretty leaf today<br>\
-
     that will defy laws of matter tomorrow when it vanishes in midair<br>\
-    
-    there are things i’ve done today that i struggle to recall, things i've seen but haven't watched, things i've heard but haven't listened<br>\
-
-    i continue to roll the pebble that i found not too long ago in my shoe, who will soon disappear once i exhaust everything she has to offer, simple dull periodic jabs to my big toe, but nothing he hasn’t dealt with before<br>\
-
-    today i took the bus to school, and i think, because im always thinking around the people i trust the least, and i try to recall the temporary, the fleet that will flee<br>\
-
-    the puddle my left foot fell into walking to the bus stop, the bus that came a minute too early driving past my lustful eyes moving left to right, the awful smell from the garbage can that should really be cleaned out more often sitting to the left of the bus stop who I'm already pretty upset at<br>\
-
-    meanwhile, the american robin effortlessly sitting on a tree who could probably win a red ribbon in a basket weaving competition, the delicious shade from the side of an old pharmacy created at my usual waiting spot, the wave of an innocent child greeting me as i sit down on the bus and indulge in a smile<br>\
-
-    today joins the long list of yesterdays that thankfully never seems to end, depending on when you ask me of course, but there really isn’t any time for that right now because the days i cherish seem to go by twice as fast<br>\
-
-    tomorrow carries me by the nape, a painless paralyzing pickup into the pit of opportunity. A place where we ought to forget and find comfort that things go. What I’m feeling now will not last forever, which draws pleasure on those painful days<br>\
-
+    there are things i’ve done today that i struggle to recall, things i've seen but haven't watched,<br>\
+    things i've heard but haven't listened<br>\
+    i continue to roll the pebble that i found not too long ago in my shoe, who will soon disappear once i exhaust everything she has to offer,<br>\
+    simple dull periodic jabs to my big toe, but nothing he hasn’t dealt with before<br>\
+    today i took the bus to school, and i think, because im always thinking around the people i trust the least,<br>\
+    and i try to recall the temporary, the fleet that will flee<br>\
+    the puddle my left foot fell into walking to the bus stop, the bus that came a minute too early driving past my lustful eyes moving left to right,<br>\
+    the awful smell from the garbage can that should really be cleaned out more often sitting to the left of the bus stop who I'm already pretty upset at<br>\
+    meanwhile, the american robin effortlessly sitting on a tree who could probably win a red ribbon in a basket weaving competition,<br>\
+    the delicious shade from the side of an old pharmacy created at my usual waiting spot, the wave of an innocent child greeting me as i sit down on the bus and indulge in a smile<br>\
+    today joins the long list of yesterdays that thankfully never seems to end, depending on when you ask me of course,<br>\
+    but there really isn’t any time for that right now because the days i cherish seem to go by twice as fast<br>\
+    tomorrow carries me by the nape, a painless paralyzing pickup into the pit of opportunity.<br>\
+    A place where we ought to forget and find comfort that things go. What I’m feeling now will not last forever, which draws pleasure on those painful days<br>\
     lets freeze this insignificant moment<br>\
-
     i pick up my journal<br>\
-
     i cant remember if the leaf was red or yellow."
-}
+)
+
+strings.push(
+
+    "after a little deliberation I decide it’s probably best to get some sleep<br>\
+a choice I make that is unmotivated by drowsiness <br>\
+I crawl into bed and think<br>\
+<br>\
+a bed stained with every emotion I’ve ever felt<br>\
+thoughts of nothing but emotion I’ve never felt<br>\
+<br>\
+i’ve been here before,<br>\
+exchanging a cold handshake with a Crumpled Sheet,<br>\
+an empty hug with a Breathless Pillow<br>\
+<br>\
+realizing that no matter how many times i change these sheets,<br>\
+everything continues to feel unclean<br>\
+<br>\
+as my mind and body find today’s final consensus<br>\
+i lay there small and full of feeling <br>\
+and though it’s not much, it’s all i have<br>\
+<br>\
+i take a deep breath<br>\
+and try once more to accept solitude<br>\
+calmly"
+    
+)
+
 
 
 function next() {
